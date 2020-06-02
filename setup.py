@@ -12,7 +12,7 @@ setup(
     ],
     author='wang wei',
     author_email="35970233@qq.com",
-    url='https://code-management.mercedes-benz.com.cn/oap2/utils',
+    url='https://github.com/oap2/utils',
     install_requires=[
         'openpyxl',
         'pycryptodome'
