@@ -15,7 +15,8 @@ setup(
     url='https://github.com/oap2/utils',
     install_requires=[
         'openpyxl',
-        'pycryptodome'
+        'pycryptodome',
+        'boto3'
     ],
     license='MIT',
     packages=find_packages(),
